@@ -68,7 +68,7 @@ def get_random_data(
     line = line[1].split(" ")
     iw, ih = image.size
     h, w = input_shape
-    box = np.array([np.array(list(map(int, box.split(",")))) for box in line[1:]])
+    box = np.array([np.array(list(map(float, box.split(",")))) for box in line[1:]])
 
     if not random:
         # resize image
