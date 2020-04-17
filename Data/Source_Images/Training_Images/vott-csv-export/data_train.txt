@@ -1,11 +1,28 @@
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/PAN-CARD-300x188-2.jpg 9.0,76.0,129.0,91.0,0 11.0,131.0,87.0,147.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/PAN-CARD-300x188.jpg 9.0,75.0,128.0,92.0,0 9.0,132.0,89.0,148.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Rajesh%20PAN%20Card.jpg 15.0,75.0,80.0,92.0,0 14.0,136.0,96.0,153.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/PAN%20Card%20Anil.jpeg 90.0,239.0,485.0,274.0,0 96.0,389.0,357.0,436.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/PAN%20CARD.jpg 21.0,130.0,270.0,153.0,0 19.0,226.0,198.0,250.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/What-is-PAN-Card-Why-having-PAN-Card-is-Important.jpg 8.0,143.0,243.0,174.0,0 6.0,255.0,164.0,294.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images-2.jpeg 12.0,56.0,139.0,70.0,0 11.0,100.0,80.0,111.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test1.jpg 14.0,57.0,90.0,73.0,0 12.0,113.0,87.0,128.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images.jpeg 12.0,68.0,101.0,82.0,0 13.0,114.0,86.0,129.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/pan_card.jpg 13.0,133.0,149.0,156.0,0 12.0,215.0,141.0,239.0,1
-/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test2.jpg 16.0,69.0,222.0,92.0,0 18.0,128.0,108.0,144.0,1
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/72ec0241-6644-48ae-badb-683cef8d126e.jpg 49.0,433.0,307.0,511.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2222.jpg 72.0,621.0,235.0,698.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2393.jpg 84.0,570.0,262.0,714.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2682.jpg 19.0,570.0,243.0,730.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/3020.jpg 0.0,469.0,224.0,666.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9585965155.jpg 103.0,412.0,439.0,504.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9788008016.jpg 28.0,337.0,258.0,521.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Arif%201.jpg 59.0,508.0,354.0,771.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Arif%202.jpg 56.0,521.0,365.0,827.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Arif%204.jpg 45.0,547.0,329.0,781.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Arif%203.jpg 44.0,570.0,345.0,879.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Ashik%20Raguman%201.jpg 111.0,540.0,374.0,789.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Arif%205.jpg 52.0,576.0,342.0,744.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Ashik%20Raguman%202.jpg 81.0,532.0,382.0,777.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%201.jpg 113.0,1315.0,1072.0,1598.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%202.jpg 320.0,1377.0,1228.0,1721.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%203.jpg 158.0,1364.0,991.0,1594.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%204.jpg 231.0,1382.0,1158.0,1625.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%205.jpg 93.0,1299.0,996.0,1489.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Halgekar%206.jpg 142.0,1358.0,1111.0,1667.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Pandiyan%202.jpg 38.0,334.0,146.0,415.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Pawate%203.jpg 178.0,1327.0,1132.0,1824.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Pawate%202.jpg 171.0,1310.0,1089.0,1662.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Pawate%201.jpg 223.0,1294.0,1133.0,1814.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Raghuvaran%209.jpg 53.0,507.0,372.0,670.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Raghuvaran%2010.jpg 75.0,565.0,362.0,698.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Raghuvaran%2011.jpg 53.0,554.0,359.0,670.0,0
+/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Raghuvaran%208.jpg 73.0,539.0,369.0,762.0,0
